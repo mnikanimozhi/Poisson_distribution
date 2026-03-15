@@ -34,6 +34,7 @@ Name:KANIMOZHI K N
 Reg no:212225230126
 Slot:T1-I5
 -----------------
+```
 import numpy as np
 
 import math
@@ -124,7 +125,7 @@ if cal_chi2 < table_chi2:
 
 else:
     print("The given data CANNOT be fitted to Poisson Distribution at 1% LOS")
- 
+``` 
 
 # Output : 
 
